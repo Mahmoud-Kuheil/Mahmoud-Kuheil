@@ -1,7 +1,7 @@
 - 👋 Hey , I’m @Mahmoud-Kuheil
 - 👀 I can program in Kotlin And I can make mobile applications on Android studios
-- 🌱 I am now learning Flutter , to start working on it
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am now learning Flutter
+- 💞️ I’m looking to collaborate with a good company
 - 📫 to reach me , Gmail : mhhk804853@gmail.com
 
 <!---
